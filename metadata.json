@@ -1,0 +1,6 @@
+
+{
+  "name": "Kalkulator IMT",
+  "description": "Aplikasi web untuk menghitung Indeks Massa Tubuh (IMT) menggunakan input tinggi dan berat badan, mendukung satuan metrik dan imperial. Memberikan nilai IMT dan kategori.",
+  "requestFramePermissions": []
+}
